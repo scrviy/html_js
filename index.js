@@ -1,0 +1,2 @@
+// Um comentário
+alert("oi")
